@@ -20,7 +20,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #9577ff;
 }
 
 @keyframes App-logo-spin {
@@ -30,4 +30,7 @@
   to {
     transform: rotate(360deg);
   }
+}
+title{
+  color: blanchedalmond;
 }
